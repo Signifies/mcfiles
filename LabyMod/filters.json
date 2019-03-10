@@ -1,0 +1,19 @@
+{
+  "filters": [
+    {
+      "filterName": "ES1",
+      "wordsContains": [
+        "ES tachii Hauntinng tea sendtea"
+      ],
+      "wordsContainsNot": [],
+      "playSound": true,
+      "soundPath": "note.harp",
+      "highlightMessage": true,
+      "highlightColorR": 189,
+      "highlightColorG": 184,
+      "highlightColorB": 50,
+      "hideMessage": false,
+      "displayInSecondChat": false
+    }
+  ]
+}

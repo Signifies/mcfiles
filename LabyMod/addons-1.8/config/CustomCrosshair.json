@@ -1,0 +1,15 @@
+{
+  "config": {
+    "crosshair_type": 2,
+    "crosshair_colour": -1,
+    "outline_colour": -16733696,
+    "dot_colour": -16777216,
+    "highlight_hostile_colour": -5636096,
+    "highlight_passive_colour": -11141291,
+    "highlight_player_colour": -22016,
+    "crosshair_width": 50,
+    "crosshair_height": 30,
+    "rainbow_enabled": false,
+    "dynamic_bow_enabled": true
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "autoTextKeyBinds": [
+    {
+      "message": "/chemist",
+      "keyShift": false,
+      "keyCtrl": false,
+      "keyAlt": false,
+      "keyCode": 66,
+      "sendNotInstantly": false,
+      "available": true
+    },
+    {
+      "message": "/medic",
+      "keyShift": false,
+      "keyCtrl": false,
+      "keyAlt": true,
+      "keyCode": 50,
+      "sendNotInstantly": false,
+      "available": true
+    },
+    {
+      "message": "/ninja",
+      "keyShift": false,
+      "keyCtrl": false,
+      "keyAlt": false,
+      "keyCode": 63,
+      "sendNotInstantly": false,
+      "available": true
+    },
+    {
+      "message": "/elf",
+      "keyShift": false,
+      "keyCtrl": false,
+      "keyAlt": false,
+      "keyCode": 64,
+      "sendNotInstantly": false,
+      "available": true
+    },
+    {
+      "message": "/md",
+      "keyShift": false,
+      "keyCtrl": false,
+      "keyAlt": false,
+      "keyCode": 50,
+      "sendNotInstantly": false,
+      "available": true
+    },
+    {
+      "message": "/switch",
+      "keyShift": false,
+      "keyCtrl": false,
+      "keyAlt": false,
+      "keyCode": 43,
+      "sendNotInstantly": false,
+      "available": true
+    },
+    {
+      "message": "/b",
+      "keyShift": false,
+      "keyCtrl": false,
+      "keyAlt": false,
+      "keyCode": 48,
+      "sendNotInstantly": false,
+      "available": true
+    },
+    {
+      "message": "/pyro",
+      "keyShift": false,
+      "keyCtrl": false,
+      "keyAlt": false,
+      "keyCode": 65,
+      "sendNotInstantly": false,
+      "available": true
+    },
+    {
+      "message": "/ping",
+      "keyShift": false,
+      "keyCtrl": false,
+      "keyAlt": false,
+      "keyCode": 25,
+      "sendNotInstantly": false,
+      "available": true
+    },
+    {
+      "message": "/map 254",
+      "keyShift": false,
+      "keyCtrl": false,
+      "keyAlt": false,
+      "keyCode": 13,
+      "sendNotInstantly": false,
+      "available": true
+    }
+  ]
+}

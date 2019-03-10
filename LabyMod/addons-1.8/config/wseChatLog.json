@@ -1,0 +1,8 @@
+{
+  "config": {
+    "UploadService": "HASTEBIN",
+    "Clear logs after save action": true,
+    "Open link after upload": false,
+    "Search for player names": true
+  }
+}
