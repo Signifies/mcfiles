@@ -1,0 +1,138 @@
+{
+  "config": {
+    "keys": [
+      {
+        "key": 17,
+        "mouse": false,
+        "docked": false,
+        "x": 91.52631578947368,
+        "y": 5.220264317180617,
+        "width": 26.0,
+        "height": 25.0,
+        "transparency": 104,
+        "rainbow": true,
+        "cps": true,
+        "outline": false,
+        "backgroundColor": -2147483648,
+        "textColor": -11141121,
+        "pressedColor": -5636096,
+        "rgbspeed": 1,
+        "dockedKeys": [
+          {
+            "key": 30,
+            "mouse": false,
+            "docked": true,
+            "x": -27.0,
+            "y": 27.0,
+            "width": 25.0,
+            "height": 25.0,
+            "transparency": 100,
+            "rainbow": true,
+            "cps": false,
+            "outline": false,
+            "backgroundColor": -2147483648,
+            "textColor": -1,
+            "pressedColor": 2147483647,
+            "rgbspeed": 1,
+            "dockedKeys": [
+              {
+                "key": 31,
+                "mouse": false,
+                "docked": true,
+                "x": 27.0,
+                "y": 0.0,
+                "width": 25.0,
+                "height": 25.0,
+                "transparency": 100,
+                "rainbow": true,
+                "cps": false,
+                "outline": false,
+                "backgroundColor": -2147483648,
+                "textColor": -1,
+                "pressedColor": 2147483647,
+                "rgbspeed": 1,
+                "dockedKeys": [
+                  {
+                    "key": 32,
+                    "mouse": false,
+                    "docked": true,
+                    "x": 27.0,
+                    "y": 0.0,
+                    "width": 25.0,
+                    "height": 25.0,
+                    "transparency": 100,
+                    "rainbow": true,
+                    "cps": false,
+                    "outline": false,
+                    "backgroundColor": -2147483648,
+                    "textColor": -1,
+                    "pressedColor": 2147483647,
+                    "rgbspeed": 1,
+                    "dockedKeys": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "key": 0,
+            "mouse": true,
+            "docked": true,
+            "x": 27.0,
+            "y": 0.0,
+            "width": 25.0,
+            "height": 25.0,
+            "transparency": 100,
+            "rainbow": true,
+            "cps": true,
+            "outline": false,
+            "backgroundColor": -2147483648,
+            "textColor": -1,
+            "pressedColor": 2147483647,
+            "rgbspeed": 1,
+            "dockedKeys": [
+              {
+                "key": 4,
+                "mouse": false,
+                "docked": true,
+                "x": 30.0,
+                "y": 0.0,
+                "width": 25.0,
+                "height": 25.0,
+                "transparency": 100,
+                "rainbow": true,
+                "cps": false,
+                "outline": false,
+                "backgroundColor": -2147483648,
+                "textColor": -1,
+                "pressedColor": 2147483647,
+                "rgbspeed": 1,
+                "dockedKeys": [
+                  {
+                    "key": 2,
+                    "mouse": false,
+                    "docked": true,
+                    "x": 0.0,
+                    "y": 27.0,
+                    "width": 25.0,
+                    "height": 25.0,
+                    "transparency": 100,
+                    "rainbow": true,
+                    "cps": false,
+                    "outline": false,
+                    "backgroundColor": -2147483648,
+                    "textColor": -1,
+                    "pressedColor": 2147483647,
+                    "rgbspeed": 1,
+                    "dockedKeys": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "enabled": true
+  }
+}

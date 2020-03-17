@@ -3,7 +3,7 @@
     {
       "filterName": "ES1",
       "wordsContains": [
-        "ES tachii Hauntinng tea sendtea"
+        "Signifies ES shared"
       ],
       "wordsContainsNot": [],
       "playSound": true,
@@ -13,7 +13,9 @@
       "highlightColorG": 184,
       "highlightColorB": 50,
       "hideMessage": false,
-      "displayInSecondChat": false
+      "displayInSecondChat": false,
+      "filterTooltips": false,
+      "room": "Global"
     }
   ]
 }

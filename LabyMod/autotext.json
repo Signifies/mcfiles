@@ -7,6 +7,7 @@
       "keyAlt": false,
       "keyCode": 66,
       "sendNotInstantly": false,
+      "serverBound": false,
       "available": true
     },
     {
@@ -16,6 +17,7 @@
       "keyAlt": true,
       "keyCode": 50,
       "sendNotInstantly": false,
+      "serverBound": false,
       "available": true
     },
     {
@@ -25,15 +27,18 @@
       "keyAlt": false,
       "keyCode": 63,
       "sendNotInstantly": false,
+      "serverBound": false,
       "available": true
     },
     {
-      "message": "/elf",
+      "message": "/necro",
       "keyShift": false,
       "keyCtrl": false,
       "keyAlt": false,
       "keyCode": 64,
       "sendNotInstantly": false,
+      "serverBound": false,
+      "serverAddress": "",
       "available": true
     },
     {
@@ -43,6 +48,7 @@
       "keyAlt": false,
       "keyCode": 50,
       "sendNotInstantly": false,
+      "serverBound": false,
       "available": true
     },
     {
@@ -52,6 +58,7 @@
       "keyAlt": false,
       "keyCode": 43,
       "sendNotInstantly": false,
+      "serverBound": false,
       "available": true
     },
     {
@@ -61,6 +68,7 @@
       "keyAlt": false,
       "keyCode": 48,
       "sendNotInstantly": false,
+      "serverBound": false,
       "available": true
     },
     {
@@ -70,6 +78,7 @@
       "keyAlt": false,
       "keyCode": 65,
       "sendNotInstantly": false,
+      "serverBound": false,
       "available": true
     },
     {
@@ -79,6 +88,7 @@
       "keyAlt": false,
       "keyCode": 25,
       "sendNotInstantly": false,
+      "serverBound": false,
       "available": true
     },
     {
@@ -88,6 +98,7 @@
       "keyAlt": false,
       "keyCode": 13,
       "sendNotInstantly": false,
+      "serverBound": false,
       "available": true
     }
   ]
